@@ -1,3 +1,6 @@
+.whole{
+    background-color:#EEEEEE ;
+}
 nav {
     display: flex;
     justify-content: space-between;
